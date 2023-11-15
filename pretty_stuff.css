@@ -1,0 +1,20 @@
+
+
+body{
+  background-color: #7FFFD4;
+  color: #008B8B;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+button {
+  border-color: #008B8B;
+  color:#008B8B;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#crossStitchIdeas{
+  color: orangered;
+  visibility: hidden;
+}
