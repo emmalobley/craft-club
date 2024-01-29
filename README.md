@@ -1,2 +1,2 @@
 # craft-club
-Javascript Assignment for CFGDegree
+My first Javascript Assignment with some HTML and CSS.
